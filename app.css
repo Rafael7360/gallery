@@ -1,0 +1,13 @@
+.atvImg {
+	height: 560px;
+	display: inline-block;
+	margin: 0 20px;
+	flex: auto;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
